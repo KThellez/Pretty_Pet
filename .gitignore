@@ -1,0 +1,59 @@
+# Archivos compilados de Java
+*.class
+
+# Archivos de construcción de IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+.settings/
+
+# Archivos de compilación y resultados
+/bin/
+/target/
+/.gradle/
+build/
+
+# Dependencias de Maven
+# (Agrega cualquier otro sistema de gestión de dependencias que uses)
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.loc
+
+# Eclipse-specific
+*.launch
+.recommenders/
+
+# Intellij-specific
+out/
+*.iml
+*.ipr
+*.iws
+*.log
+.idea/
+.idea_modules/
+
+# NetBeans-specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+
+# Visual Studio Code-specific
+.vscode/
+.settings.json
+
+# Mac-specific
+.DS_Store
+
+# Gradle-specific
+.gradle/
+build/
+
+# Otros archivos y directorios a ignorar (personalízalo según tus necesidades)
